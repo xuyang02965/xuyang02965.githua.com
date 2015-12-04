@@ -1,0 +1,11 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: blog.lightarrow.cn
+url: http://blog.lightarrow.cn
+feed: /atom.xml
+author_info: <a href="http://blog.lightarrow.cn/">lightarrow</a>
